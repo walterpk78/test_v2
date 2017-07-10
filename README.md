@@ -1,5 +1,5 @@
 # Python tasks V2
-[![PyPI](https://img.shields.io/pypi/pyversions/sanic.svg](https://pypi.python.org/)
+[![Build requirements]https://img.shields.io/pypi/pyversions/sanic.svg)]
 [![Build Status](https://travis-ci.org/airbnb/superset.svg?branch=master)]
 
 
