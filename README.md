@@ -11,7 +11,7 @@ Demo projec that allows us to test files searchs, schedule sync time threads met
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 ```
-git clone https://github.com/walterpk78/test_rent
+git clone https://github.com/walterpk78/test_v2
 ```
 ### Prerequisites
 
