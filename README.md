@@ -3,9 +3,9 @@
 [![Build Status](https://travis-ci.org/airbnb/superset.svg?branch=master)]
 
 
-# Rent-o-Matic
+# REFACTOR / FIX / TESTS: schedule_method_calls, merge_dictionaries_recursive and search_in_file
 
-Demo projec that allows us to rent transport, payment is in cash and calculate the change in the lower quantity of paper money to give
+Demo projec that allows us to test files searchs, schedule sync time threads methods, and merge dicts
 
 ## Getting Started
 
