@@ -22,8 +22,9 @@ unittest2==1.1.0
 ```
 
 ### Installing
-
+PACKAGE UNDER test_v2/test_v2/dist/pythonTask-0.1.0.tar.gz
 PLEASE READ FILE test_v2/test_v2/README.txt for more instructions
+
 
 Installing a virtualenv (optional)
 ```
