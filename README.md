@@ -22,6 +22,9 @@ unittest2==1.1.0
 ```
 
 ### Installing
+
+PLEASE READ FILE test_v2/test_v2/README.txt for more instructions
+
 Installing a virtualenv (optional)
 ```
 virtualenv -p /usr/bin/python3.5 /home/xxx/virtualenvs/test_v2
