@@ -1,0 +1,8 @@
+Hello World!
+I have a cat,
+but I dont have a dog.
+Tomorrow I will buy a hamster!
+THE END
+
+
+

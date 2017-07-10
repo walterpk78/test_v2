@@ -1,0 +1,11 @@
+LICENSE.txt
+MANIFEST.in
+README.txt
+setup.py
+pythonTask/__init__.py
+pythonTask/python_tasks_v2.py
+pythonTask.egg-info/PKG-INFO
+pythonTask.egg-info/SOURCES.txt
+pythonTask.egg-info/dependency_links.txt
+pythonTask.egg-info/requires.txt
+pythonTask.egg-info/top_level.txt
