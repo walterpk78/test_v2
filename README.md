@@ -1,5 +1,5 @@
 # Python tasks V2
-[![PyPI](https://microbadger.com/images/rcarmo/alpine-python)](https://pypi.python.org/)
+[![PyPI](https://img.shields.io/pypi/pyversions/sanic.svg](https://pypi.python.org/)
 [![Build Status](https://travis-ci.org/airbnb/superset.svg?branch=master)]
 
 
